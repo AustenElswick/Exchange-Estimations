@@ -1,0 +1,22 @@
+[{
+  "EUR-USD": {
+    "Quarter 2 Year 18 - ": "1.21000",
+    "Quarter 3 Year 18 - ": "1.19000",
+    "Quarter 4 Year 18 - ": "1.17000",
+    "Quarter 1 Year 19 - ": "1.15000"
+  }
+}, {
+  "EUR-AUD": {
+    "Quarter 2 Year 18 - ": "1.5439",
+    "Quarter 3 Year 18 - ": "1.5444",
+    "Quarter 4 Year 18 - ": "1.5447",
+    "Quarter 1 Year 19 - ": "1.5453"
+  }
+}, {
+  "EUR-GBP": {
+    "Quarter 2 Year 18 - ": "0.8926",
+    "Quarter 3 Year 18 - ": "0.8954",
+    "Quarter 4 Year 18 - ": "0.8982",
+    "Quarter 1 Year 19 - ": "0.9011"
+  }
+}]

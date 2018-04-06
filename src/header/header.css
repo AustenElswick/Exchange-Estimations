@@ -1,0 +1,17 @@
+.imgFlex {
+  display: flex;
+  justify-content: flex-start;
+  height: 200px;
+  width: 200px;
+}
+
+.buttonFlex {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 100px;
+}
+
+header {
+  background-color: gold;
+  height: 200px;
+}
