@@ -78,14 +78,12 @@ class App extends Component {
       <div className="App">
         <Header />
         <Brochure />
-        {this.state.rates ? <Data
-         current={this.state.rates}
-         estimates={this.state.estimatedRates}
-         /> : null}
-         {this.state.currencyCodes ? <Codes
-          currencyCodes={this.state.currencyCodes}
-          change={this.checkboxActivate}
-          activate={this.state.checkboxActive} /> : null }
+        {this.state.rates
+          ? <Data current={this.state.rates} estimates={this.state.estimatedRates} />
+          : null}
+         {this.state.currencyCodes
+            ? <Codes currencyCodes={this.state.currencyCodes} change={this.checkboxActivate} activate={this.state.checkboxActive} />
+            : null }
       </div>
     )
   }
